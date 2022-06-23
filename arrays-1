@@ -10,5 +10,5 @@ string reverseWord(string str){
         start++;
         end--;
   }
-  cout << str << endl;
+  return str;
 }
